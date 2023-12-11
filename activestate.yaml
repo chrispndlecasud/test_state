@@ -1,4 +1,4 @@
-project: https://platform.activestate.com/chrispndlecasud-org/Test-activestate?branch=main&commitID=9b844596-0283-4ffc-9c1d-ad3bf2bdef6b
+project: https://platform.activestate.com/chrispndlecasud-org/Test-activestate?branch=main&commitID=7cc265d7-b6da-43f7-8be8-ede357aa2559
 scripts:
   - name: activationMessage
     language: python3
